@@ -1,3 +1,5 @@
+![hasura logo](https://img.stackshare.io/service/6590/hasura_logo_vertical_black.png)
+
 # [learn.hasura.io](https://learn.hasura.io)
 
 Real world GraphQL tutorials for frontend developers with deadlines!
